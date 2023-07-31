@@ -119,7 +119,7 @@ document.addEventListener("DOMContentLoaded", function () {
   
   async function generatePickupLine() {
     // Replace 'YOUR_GPT3_API_KEY' with your actual GPT-3 API key
-    const apiKey = 'YOUR_GPT3_API_KEY';
+    const apiKey = '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';
     const prompt = 'Generate a pickup line for me.';
     const url = 'https://api.openai.com/v1/engines/text-davinci-002/completions';
   
